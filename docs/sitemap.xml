@@ -3,65 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/code-blocks/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/articles/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/installation/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/project-structure/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/guidelines/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/cupper-examples/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/demo-embedding/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/guidelines/ada/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/media/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/about-me/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/setup/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/ada/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/markdown-and-metadata/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/another-tag/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/serving/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/article/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/writing-inline-demos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/printing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/updating/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/expandable-sections/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/print-version/</loc>
-    <lastmod>2017-07-29T22:48:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/</loc>
-    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/buttons/</loc>
   </url>
   
   <url>
@@ -70,41 +51,42 @@
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/print-version/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/color-palettes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/command-line/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/file-trees/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/media/including-images/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/media/including-videos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thepaciellogroup.github.io/cupper/tags/markdown/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/example-tag/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/tags/metadata/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/cupper-examples/another-file/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/forms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/guidelines/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/notes-and-warnings/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/html-elements/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/hyperlinks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/images/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/articles/my-first-article/</loc>
   </url>
   
   <url>
@@ -113,15 +95,16 @@
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/references/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/section-508/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/snippets/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/guidelines/section-508/</loc>
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/writing/tables-of-contents/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/tables/</loc>
   </url>
   
   <url>
@@ -130,7 +113,24 @@
   </url>
   
   <url>
-    <loc>https://thepaciellogroup.github.io/cupper/patterns/coding/tested/</loc>
+    <loc>https://thepaciellogroup.github.io/cupper/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/guidelines/wcag-2.0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/guidelines/wcag-2.1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/tags/wcag/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thepaciellogroup.github.io/cupper/patterns/html-elements/iframes/</loc>
   </url>
   
 </urlset>

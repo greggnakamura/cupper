@@ -11,20 +11,74 @@
     
     
     <item>
-      <title>Markdown</title>
-      <link>https://thepaciellogroup.github.io/cupper/tags/markdown/</link>
+      <title>Ada</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/ada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thepaciellogroup.github.io/cupper/tags/markdown/</guid>
+      <guid>https://thepaciellogroup.github.io/cupper/tags/ada/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Metadata</title>
-      <link>https://thepaciellogroup.github.io/cupper/tags/metadata/</link>
+      <title>Another Tag</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/another-tag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thepaciellogroup.github.io/cupper/tags/metadata/</guid>
+      <guid>https://thepaciellogroup.github.io/cupper/tags/another-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Tag</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/example-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/example-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html Elements</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/html-elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section 508</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/section-508/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/section-508/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wcag</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/wcag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/wcag/</guid>
       <description></description>
     </item>
     

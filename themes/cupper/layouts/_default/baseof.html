@@ -23,6 +23,7 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="{{ "css/prism.css" | absURL }}" media="none" onload="this.media='all';">
     <link rel="stylesheet" type="text/css" href="{{ "css/styles.css" | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "css/custom.css" | absURL }}">
     <style id="inverter" media="none">
       html { filter: invert(100%) }
       * { background-color: inherit }
@@ -49,7 +50,7 @@
               <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
                 <img src="{{ "images/logo.svg" | absURL }}" alt="">
               </a>
-              <p class="library-desc">
+              <!-- <p class="library-desc">
                 {{ .Site.Params.Description | markdownify }}
                 {{ if ne .Type "print-version" }}
                   <a class="print" href="{{ "print-version" | absURL }}">
@@ -58,7 +59,7 @@
                     </svg>Print version
                  {{ end }}
                </a>
-              </p>
+              </p> -->
               {{ if eq .Type "print-version" }}
                 <p class="toc-link">
                   <span aria-hidden="true">&#x2193;</span>
@@ -110,6 +111,16 @@
                 {{ end }}
               </nav>
             {{ end }}
+            <p class="library-desc">
+              {{ .Site.Params.Description | markdownify }}
+              {{ if ne .Type "print-version" }}
+                <a class="print" href="{{ "print-version" | absURL }}">
+                  <svg viewBox="0 0 35 45" aria-hidden="true" focusable="false">
+                    <use xlink:href="#doc"></use>
+                  </svg>Print version
+               {{ end }}
+             </a>
+            </p>
           </div>
         </header>
       <div class="main-and-footer">
@@ -123,8 +134,8 @@
                 <span aria-hidden="true"></span>
               </label>
             </div>
-            Powered by <strong>Cupper</strong>, a <strong>The Paciello Group</strong> project.<br>
-            For general enquiries, contact us on info@paciellogroup.com.
+            Powered by <strong>Cupper</strong>, a <strong><a href="mailto:info@paciellogroup.com">The Paciello Group</a></strong> project.<br>
+            For general enquiries, contact me at <a href="mailto:gregg.nakamura@gmail.com">gregg.nakamura@gmail.com</a>.
           </footer>
         </div>
       </div>

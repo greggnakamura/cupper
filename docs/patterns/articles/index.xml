@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Cupper</title>
+    <link>https://thepaciellogroup.github.io/cupper/patterns/articles/</link>
+    <description>Recent content in Articles on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thepaciellogroup.github.io/cupper/patterns/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Article</title>
+      <link>https://thepaciellogroup.github.io/cupper/patterns/articles/my-first-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/patterns/articles/my-first-article/</guid>
+      <description>My intention isn&amp;rsquo;t to muddy the waters up so to speak
+Collection of things I&amp;rsquo;ve come across
+I&amp;rsquo;ve been a Web Developer for roughly 9 years, but only recently, within the past couple of years, have made the concerted effort to build with accessibility in mind (I know, sad right?)
+My public title is Web Developer, but internally at my company I am a Web Developer / Accessibility Specialist. I introduced it to my company as part of our internal Evangelist program and Accessibility is now built into our process (which is frickin&amp;rsquo; awesome).</description>
+    </item>
+    
+  </channel>
+</rss>

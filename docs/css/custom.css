@@ -1,0 +1,32 @@
+a {
+  color: #1b75bc;
+}
+ol ol,
+ul, ul {
+  margin: .5em 0 0 0;
+}
+code[class*='language-'],
+pre[class*='language-'] {
+  background-color: #1b2b34;
+  color: #CDD3DE;
+  filter: initial;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #ed6169;
+}
+.token.punctuation {
+  color: #ed6169;
+}
+.token.attr-name {
+  color: #99c794;
+}
+.token.attr-value {
+  color: #fac863;
+}
